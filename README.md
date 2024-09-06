@@ -14,6 +14,20 @@ manejo y tipo de variable, cadena, if, for, while
 - ![image](https://github.com/user-attachments/assets/15c8af38-fec7-4781-aec2-a04dbeb2f6be)
 - cuando es falso
 - ![image](https://github.com/user-attachments/assets/a31e64c3-5309-47bd-be0a-5a54931e7ce9)
+- ## while
+- codigo
+- ![image](https://github.com/user-attachments/assets/9104be87-b2ef-498e-947d-3687e7516a19)
+- resultado
+- ![image](https://github.com/user-attachments/assets/7957d584-4ff8-443c-aa7c-5ba173325b80)
+- ## foor
+- codigo
+- ![image](https://github.com/user-attachments/assets/17a4f024-69fa-4727-9178-f779b437550a)
+- resultado
+- ![image](https://github.com/user-attachments/assets/8438936d-0ebc-449a-9dcf-8159d0a65ab7)
+
+
+
+
 
 
 
